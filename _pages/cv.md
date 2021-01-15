@@ -6,20 +6,19 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
 [Also available in PDF format](http://chngchinboon.github.io/files/paper1.pdf)
 
-<div align="center">
-
-## Chin Boon Chng
-</div>
+<h1 class="western" align="center">
+Chin Boon Chng
+</h1>
 
 ### Curriculum Vitae
 
 Education
 ======
+
 | Timeframe         | Qualification         | Institute                                 |
 | :--------:        |:------:              |:-------:                                 |
 | Jan 16 - Nov 19   | Ph.D (Mechanical)    | National University of Singapore (NUS)   |
