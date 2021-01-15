@@ -9,7 +9,7 @@
 locale                   : "en-SG"
 title                    : "Chng Chin Boon"
 title_separator          : "-"
-name                     : &name "Chin Boon"
+name                     : &name "Chin Boon Chng | Last Updated Jan 2021"
 description              : &description "Ph.D. Mechanical Engineering"
 url                      : https://chngchinboon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
