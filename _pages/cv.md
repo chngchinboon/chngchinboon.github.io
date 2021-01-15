@@ -11,8 +11,10 @@ redirect_from:
 
 [Also available in PDF format](http://chngchinboon.github.io/files/paper1.pdf)
 
-Chin Boon Chng
-Curriculum Vitae
+
+## <p class="text-center">Chin Boon Chng<p>
+
+### Curriculum Vitae
 
 Education
 ======
