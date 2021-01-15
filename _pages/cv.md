@@ -13,10 +13,9 @@ redirect_from:
 <h1 align="center">
 Chin Boon Chng
 </h1>
-
-<h2 align="center">
+<h3 align="center">
 Curriculum Vitae
-</h2>
+</h3>
 
 
 
@@ -43,12 +42,10 @@ Education:
   * Master's Thesis: Design and Experimentation of Surgical Devices for Voice Restoration
   * Advisor: Assistant Professor Chui Chee Kong
  
- * B.Eng., Mechanical Engineering, National University of Singapore
+* B.Eng., Mechanical Engineering, National University of Singapore
   * Date: May 09
   * Bachelor's Thesis: Motorized Articulating System for a Projector Based Augmented Reality System
   * Advisor: Assistant Professor Chui Chee Kong
-
-
 
 Work experience
 ======

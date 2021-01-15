@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-SG"
-title                    : "Chin Boon Chng"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Chin Boon Chng | Last Updated Jan 2021"
 description              : &description "Ph.D. Mechanical Engineering"
