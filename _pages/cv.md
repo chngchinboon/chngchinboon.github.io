@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+[Also available in PDF format](http://chngchinboon.github.io/files/paper1.pdf)
+
 Chin Boon Chng
 Curriculum Vitae
 
