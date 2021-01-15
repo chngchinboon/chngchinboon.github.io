@@ -18,6 +18,16 @@ Education
 |Aug 06 - May 09| B.Eng (Mechanical)| National University of Singapore (NUS)|
 |Jul 01 - May 04| Dip (Mechatronics)| Singapore Polytechnic (SP)|
 
+
+### Table 1
+
+| Entry            | Item   |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+| John Doe    | 2016   | Description of the item in the list                          |
+| Jane Doe    | 2019   | Description of the item in the list                          |
+| Doe Doe     | 2022   | Description of the item in the list                          |
+
+
 Work experience
 ======
 * Apr 19 - Current:  Research Associate/Fellow
