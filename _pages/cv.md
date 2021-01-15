@@ -30,22 +30,7 @@ Education
 | Aug 06 - May 09   | B.Eng (Mechanical)   | National University of Singapore (NUS)   |
 | Jul 01 - May 04   | Dip. (Mechatronics)   | Singapore Polytechnic (SP)               |
 
-## vs
-Education:
-* Ph.D., Mechanical Engineering, National University of Singapore
-  * Date: November 19
-  * Doctoral Thesis: Spherical Mechanism Design and Application for Robot-assisted Surgery
-  * Advisor: Associate Professor Chui Chee Kong
- 
-* M.Eng., Mechanical Engineering, National University of Singapore
-  * Date: July 12
-  * Master's Thesis: Design and Experimentation of Surgical Devices for Voice Restoration
-  * Advisor: Assistant Professor Chui Chee Kong
- 
-* B.Eng., Mechanical Engineering, National University of Singapore
-  * Date: May 09
-  * Bachelor's Thesis: Motorized Articulating System for a Projector Based Augmented Reality System
-  * Advisor: Assistant Professor Chui Chee Kong
+
 
 Work experience
 ======
