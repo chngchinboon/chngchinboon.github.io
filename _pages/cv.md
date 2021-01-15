@@ -11,12 +11,13 @@ redirect_from:
 
 Education
 ======
-|Timeframe         |Qualification         |Institute                                 |
-|:--------:        |:------:              |:-------:                                 |
-|Jan 16 - Nov 19   | Ph.D (Mechanical)    | National University of Singapore (NUS)   |
-|Aug 09 - Jul 12   | M.Eng (Mechanical)   | National University of Singapore (NUS)   |
-|Aug 06 - May 09   | B.Eng (Mechanical)   | National University of Singapore (NUS)   |
-|Jul 01 - May 04   | Dip (Mechatronics)   | Singapore Polytechnic (SP)               |
+
+| Timeframe         | Qualification         | Institute                                 |
+| :--------:        |:------:              |:-------:                                 |
+| Jan 16 - Nov 19   | Ph.D (Mechanical)    | National University of Singapore (NUS)   |
+| Aug 09 - Jul 12   | M.Eng (Mechanical)   | National University of Singapore (NUS)   |
+| Aug 06 - May 09   | B.Eng (Mechanical)   | National University of Singapore (NUS)   |
+| Jul 01 - May 04   | Dip (Mechatronics)   | Singapore Polytechnic (SP)               |
 
 
 ### Education
