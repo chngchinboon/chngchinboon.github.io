@@ -11,21 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+|Timeframe|   |   |
+|---|---|---|
+|Jan 16 - Nov 19| Ph.D (Mechanical)| National University of Singapore (NUS)|
+|Aug 09 - Jul 12| M.Eng (Mechanical)| National University of Singapore (NUS)|
+|Aug 06 - May 09| B.Eng (Mechanical)| National University of Singapore (NUS)|
+|Jul 01 - May 04| Dip (Mechatronics)| Singapore Polytechnic (SP)|
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Apr 19 - Current:  Research Associate/Fellow
+  * National University of Singapore
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
+  
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  
   
 Skills
 ======

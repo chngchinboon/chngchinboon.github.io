@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-SG"
-title                    : "Chng Chin Boon"
+title                    : "Chin Boon Chng"
 title_separator          : "-"
 name                     : &name "Chin Boon Chng | Last Updated Jan 2021"
 description              : &description "Ph.D. Mechanical Engineering"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chng Chin Boon"
+  name             : "Chin Boon Chng "
   avatar           : "profile.jpeg"
   bio              : "Research Fellow at the National University of Singapore"
   location         : "Singapore"

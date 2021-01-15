@@ -16,7 +16,7 @@ My Work and research
 (to be updated)
 
 **Research topics**
-Robotics, medical devices, Deep learning
+Robotics, medical devices, Deep learning, Control enginnering, Mechatronics
 
 My Background and History
 ======
