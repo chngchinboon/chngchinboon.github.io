@@ -30,7 +30,9 @@ Education
 | Aug 06 - May 09   | B.Eng (Mechanical)   | National University of Singapore (NUS)   |
 | Jul 01 - May 04   | Dip. (Mechatronics)   | Singapore Polytechnic (SP)               |
 
-
+| Timeframe | Employer | Role | Research/Responsibilities |
+| :-----:|:----|:------:|:-------|
+| May 07 - Jun 07   | National University Hospital (NUH)   | Pharmacy Assistant | <ul> <li> a robotic surgical trainer for laparoscopic surgery </li> <li> a robotic system for laser eye surgery </li> <li> a electromechanical device for puncture and insertion of voice prostheses </li> </ul> |
 
 Work experience
 ======
