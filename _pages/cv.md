@@ -52,7 +52,7 @@ Skills
 Publications
 ======
 Journals
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publications.journals reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 Conferences
