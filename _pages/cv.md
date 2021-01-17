@@ -48,11 +48,11 @@ Skills
   
 Publications
 ======
-Patents
+####Patents
 * D. P. C. Lau, ****C. B. Chng****, and C. K. Chui, "Device and Method for In-Office Unsedated Tracheoesophageal Puncture (TEP)," 2014.
 * D. P. C. Lau, C. K. Chui, ****C. B. Chng****, J. Q. Choo, T. Yang, and S. H. Teoh, "Bio-Absorbable Micro-Clip And Applicator For Minimal Access Wound Closure," 2012.
 
-Journals
+####Journals
 * J.-H. Yin, **C.-B. Chng**, P.-M. Wong, N. Ho, M. Chua, and C.-K. Chui, "VR and AR in human performance research―An NUS experience," Virtual Reality & Intelligent Hardware, vol. 2, pp. 381-393, 2020.
 * X. Tan, Y. Lee, **C.-B. Chng**, K.-B. Lim, and C.-K. Chui, "Robot-assisted flexible needle insertion using universal distributional deep reinforcement learning," International Journal of Computer Assisted Radiology and Surgery, vol. 15, pp. 341-349, 2020.
 * **C.-B. Chng**, P.-M. Wong, N. Ho, X. Tan, and C.-K. Chui, "Towards a Cyber-Physical Systems Based Operating Room of the Future," in OR 2.0 Context-Aware Operating Theaters and Machine Learning in Clinical Neuroimaging, ed: Springer, Cham, 2019, pp. 47-55.
@@ -69,7 +69,7 @@ Journals
 * **C. Chng**, D. Lau, J. Choo, and C. Chui, "A bioabsorbable microclip for laryngeal microsurgery: Design and evaluation," Acta biomaterialia, vol. 8, pp. 2835-2844, 2012.
 * J. Choo, D. Lau, C. Chui, T. Yang, **C. Chng**, and S. Teoh, "Design of a mechanical larynx with agarose as a soft tissue substitute for vocal fold applications," Journal of biomechanical engineering, vol. 132, p. 065001, 2010.
 
-Conferences
+####Conferences
 * J. Zhang, **C. B. Chng**, X. Chen, C. Wu, M. Zhang, Y. Xue, et al., "Detection and Classification of Pneumonia from Lung Ultrasound Images," in 2020 5th International Conference on Communication, Image and Signal Processing (CCISP), 2020, pp. 294-298.
 * Y. Lee, X. Tan, **C.-B. Chng**, and C.-K. Chui, "Simulation of Robot-Assisted Flexible Needle Insertion Using Deep Q-Network," in 2019 IEEE International Conference on Systems, Man and Cybernetics (SMC), 2019, pp. 342-346.
 * N. Ho, P.-M. Wong, R.-J. Soon, **C.-B. Chng**, and C.-K. Chui, "Blockchain for Cyber-Physical System in Manufacturing," in Proceedings of the Tenth International Symposium on Information and Communication Technology, 2019, pp. 385-392.
@@ -88,7 +88,7 @@ Conferences
 * C.-K. Chui, **C.-B. Chng**, T. Yang, R. Wen, W. Huang, J. Liu, et al., "Learning laparoscopic surgery by imitation using robot trainer," in Robotics and Biomimetics (ROBIO), 2011 IEEE International Conference on, 2011, pp. 2981-2986.
 * L. Yang, **C. Chng**, C. Chui, and D. Lau, "Model-based design analysis for programmable remote center of motion in minimally invasive surgery," in Robotics Automation and Mechatronics (RAM), 2010 IEEE Conference on, 2010, pp. 84-89.
 
-Book Chapter
+####Book Chapter
 * T. Yang, K. K. Toe, **C. B. Chng**, W. Huang, C. K. Chui, J. Liu, et al., "Evaluation of Image Guided Robot Assisted Surgical Training for Patient Specific Laparoscopic Surgery," in Bio-Imaging and Visualization for Patient-Customized Simulations, ed: Springer, 2014, pp. 77-88.
 * **C. Chng**, D. Lau, J. Choo, and C. Chui, "Investigation of Experimental Wound Closure Techniques in Voice Microsurgery," in Otolaryngology, ed: InTech, 2012.
 
