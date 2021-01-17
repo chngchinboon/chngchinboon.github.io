@@ -34,13 +34,23 @@ Education
 
 Work experience
 ======
-* Apr 19 - Current:  Research Associate/Fellow
-  * National University of Singapore
-  * Duties included: Tagging issues
-  
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+
+| Timeframe | Employer | Role | Responsibilities |
+| :-----:|:---- |:------:  |:-------: |
+| Apr 19 - Current   | National University of Singapore (NUS)    | Research Associate/Fellow   | Deep reinforcement learning for laparoscopic surgical training
+| Oct 15 - Nov 16   | Singapore General Hospital (ENT Department)   | Research Associate   | Experimentation, refinement and development of devices for in-office tracheal-oesophageal puncture (TEP), prosthesis sizing and insertion
+| Mar 11 - Aug 15   | National University of Singapore (NUS)   | Research Engineer   | *Hardware design and control system development of *	a robotic surgical trainer for laparoscopic surgery
+    *	a robotic system for laser eye surgery
+    *	a electromechanical device for puncture and insertion of voice prostheses
+    
+| May 09 - Mar 11   | Singapore General Hospital (ENT Department)   | Research Engineer               |
+| May 07 - Jun 07   | National University Hospital (NUH)   | Pharmacy Assistant               |
+| Oct 04 - Aug 06   | Republic of Singapore Air Force   | National Service – Air Force Technician                |
+| May 03 - Jul 03   | Yeakin Plastic Industry Pte Ltd   | Singapore Polytechnic Industrial Training Programme               |
+| Nov 02 - Dec 02   | Beaver Contromatic   | Singapore Polytechnic Industrial Training Programme               |
+
+
+
   
   
 Skills
