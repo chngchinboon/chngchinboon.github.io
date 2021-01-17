@@ -39,9 +39,9 @@ Work experience
 | :-----:|:---- |:------:  |:-------: |
 | Apr 19 - Current   | National University of Singapore (NUS)    | Research Associate/Fellow   | Deep reinforcement learning for laparoscopic surgical training
 | Oct 15 - Nov 16   | Singapore General Hospital (ENT Department)   | Research Associate   | Experimentation, refinement and development of devices for in-office tracheal-oesophageal puncture (TEP), prosthesis sizing and insertion
-| Mar 11 - Aug 15   | National University of Singapore (NUS)   | Research Engineer   | *Hardware design and control system development of *	a robotic surgical trainer for laparoscopic surgery
-    *	a robotic system for laser eye surgery
-    *	a electromechanical device for puncture and insertion of voice prostheses
+| Mar 11 - Aug 15   | National University of Singapore (NUS)   | Research Engineer   | Hardware design and control system development of <br>*	a robotic surgical trainer for laparoscopic surgery
+    #	a robotic system for laser eye surgery
+    #	a electromechanical device for puncture and insertion of voice prostheses
     
 | May 09 - Mar 11   | Singapore General Hospital (ENT Department)   | Research Engineer               |
 | May 07 - Jun 07   | National University Hospital (NUH)   | Pharmacy Assistant               |
