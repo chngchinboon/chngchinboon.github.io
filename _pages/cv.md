@@ -35,7 +35,7 @@ Education
 Work experience
 ======
 
-| Timeframe | Employer | Role | Responsibilities |
+| Timeframe | Employer | Role | Research/Responsibilities |
 | :-----:|:---- |:------:  |:-------: |
 | Apr 19 - Current   | National University of Singapore (NUS)    | Research Associate/Fellow   | Deep reinforcement learning for laparoscopic surgical training
 | Oct 15 - Nov 16   | Singapore General Hospital (ENT Department)   | Research Associate   | Experimentation, refinement and development of devices for in-office tracheal-oesophageal puncture (TEP), prosthesis sizing and insertion
@@ -55,23 +55,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Proficient in Solidworks, Matlab, NI Labview, Python
+* Fluent in English (written and spoken)
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
