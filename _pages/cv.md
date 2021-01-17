@@ -30,23 +30,19 @@ Education
 | Aug 06 - May 09   | B.Eng (Mechanical)   | National University of Singapore (NUS)   |
 | Jul 01 - May 04   | Dip. (Mechatronics)   | Singapore Polytechnic (SP)               |
 
-| Timeframe | Employer | Role | Research/Responsibilities |
-| :-----:|:----|:------:|:-------|
-| May 07 - Jun 07   | National University Hospital (NUH)   | Pharmacy Assistant | <ul> <li> a robotic surgical trainer for laparoscopic surgery </li> <li> a robotic system for laser eye surgery </li> <li> a electromechanical device for puncture and insertion of voice prostheses </li> </ul> |
-
 Work experience
 ======
 
 | Timeframe | Employer | Role | Research/Responsibilities |
 | :-----:|:----|:------:|:-------|
-| Apr 19 - Current  | National University of Singapore (NUS)  | Research Associate/Fellow   | Deep reinforcement learning for laparoscopic surgical training |
-| Oct 15 - Nov 16   | Singapore General Hospital (ENT Department)   | Research Associate   | Experimentation, refinement and development of devices for in-office tracheal-oesophageal puncture (TEP), prosthesis sizing and insertion|
-| Mar 11 - Aug 15   | National University of Singapore (NUS)   | Research Engineer   | Hardware design and control system development of <ul> <li> a robotic surgical trainer for laparoscopic surgery </li> <li> a robotic system for laser eye surgery </li> <li> a electromechanical device for puncture and insertion of voice prostheses </li> </ul> |   
-| May 09 - Mar 11   | Singapore General Hospital (ENT Department)   | Research Engineer | Hardware design and control system development of <br> a robotic surgical trainer for laparoscopic surgery <br>  a robotic system for laser eye surgery <br> a electromechanical device for puncture and insertion of voice prostheses |
-| May 07 - Jun 07   | National University Hospital (NUH)   | Pharmacy Assistant | <ul> <li> a robotic surgical trainer for laparoscopic surgery </li> <li> a robotic system for laser eye surgery </li> <li> a electromechanical device for puncture and insertion of voice prostheses </li> </ul> |
-| Oct 04 - Aug 06   | Republic of Singapore Air Force   | National Service – Air Force Technician | test |
-| May 03 - Jul 03   | Yeakin Plastic Industry Pte Ltd   | Singapore Polytechnic Industrial Training Programme | test |
-| Nov 02 - Dec 02   | Beaver Contromatic   | Singapore Polytechnic Industrial Training Programme | test |
+| Apr 19 - Current | National University of Singapore (NUS)| Research Associate/Fellow   | Deep reinforcement learning for laparoscopic surgical training |
+| Oct 15 - Nov 16 | Singapore General Hospital (ENT Department) | Research Associate   | Experimentation, refinement and development of devices for in-office tracheal-oesophageal puncture (TEP), prosthesis sizing and insertion |
+| Mar 11 - Aug 15 | National University of Singapore (NUS) | Research Engineer   | Hardware design and control system development of: <br>1) a robotic surgical trainer for laparoscopic surgery <br>2) a robotic system for laser eye surgery <br>3) a electromechanical device for puncture and insertion of voice prostheses |   
+| May 09 - Mar 11 | Singapore General Hospital (ENT Department) | Research Engineer | Design, development and validation of medical devices for voice restoration: <br>1) Device for puncture and insertion of voice prostheses for total laryngectomy patients <br>2) Bio-degradable micro-clips for vocal fold wound healing|
+| May 07 - Jun 07 | National University Hospital (NUH) | Pharmacy Assistant | •	Assisting pharmacists in drug inventory management, dispensing and distribution |
+| Oct 04 - Aug 06 | Republic of Singapore Air Force | National Service – Air Force Technician | 22nd NSF Fixed Wing Course <br>First line inspection and maintenance of F16 Fighter Aircraft |
+| May 03 - Jul 03 | Yeakin Plastic Industry Pte Ltd | Singapore Polytechnic Industrial Training Programme | Quality Control inspection of various plastic injection products |
+| Nov 02 - Dec 02 | Beaver Contromatic | Singapore Polytechnic Industrial Training Programme | Valve assembly and distribution |
 
 Skills
 ======
