@@ -38,11 +38,8 @@ Work experience
 | Timeframe | Employer | Role | Research/Responsibilities |
 | :-----:|:---- |:------:  |:-------: |
 | Apr 19 - Current   | National University of Singapore (NUS)    | Research Associate/Fellow   | Deep reinforcement learning for laparoscopic surgical training
-| Oct 15 - Nov 16   | Singapore General Hospital (ENT Department)   | Research Associate   | Experimentation, refinement and development of devices for in-office tracheal-oesophageal puncture (TEP), prosthesis sizing and insertion
-| Mar 11 - Aug 15   | National University of Singapore (NUS)   | Research Engineer   | Hardware design and control system development of <br>*	a robotic surgical trainer for laparoscopic surgery
-    #	a robotic system for laser eye surgery
-    #	a electromechanical device for puncture and insertion of voice prostheses
-    
+| Oct 15 - Nov 16   | Singapore General Hospital (ENT Department)   | Research Associate   | Experimentation, refinement and development of devices for in-office tracheal-oesophageal puncture (TEP), prosthesis sizing and insertion|
+| Mar 11 - Aug 15   | National University of Singapore (NUS)   | Research Engineer   | Hardware design and control system development of <br>*	a robotic surgical trainer for laparoscopic surgery|   
 | May 09 - Mar 11   | Singapore General Hospital (ENT Department)   | Research Engineer               |
 | May 07 - Jun 07   | National University Hospital (NUH)   | Pharmacy Assistant               |
 | Oct 04 - Aug 06   | Republic of Singapore Air Force   | National Service – Air Force Technician                |
@@ -50,7 +47,8 @@ Work experience
 | Nov 02 - Dec 02   | Beaver Contromatic   | Singapore Polytechnic Industrial Training Programme               |
 
 
-
+<!--a robotic system for laser eye surgery-->
+<!--a electromechanical device for puncture and insertion of voice prostheses -->
   
   
 Skills
