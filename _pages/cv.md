@@ -62,6 +62,13 @@ No if
         {% include archive-single-cv.html %}  
   {% endfor %}</ul>  
   
+with if
+  <ul>{% for post in site.publications reversed %}
+    {if author.categories == "conferences"}
+        {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}</ul>
+  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
