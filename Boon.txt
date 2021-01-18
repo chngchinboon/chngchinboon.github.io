@@ -1,0 +1,145 @@
+﻿M. Chua, C.-K. Chui, C.-B. Chng and D. Lau	2013	2013 IEEE 7th International Conference on Nano/Molecular Medicine and Engineering (NANOMED)																2013 IEEE 7th International Conference on Nano/Molecular Medicine and Engineering (NANOMED)																															
+J. Zhang, C. B. Chng, X. Chen, C. Wu, M. Zhang, Y. Xue, J. Jiang and C. K. Chui	2020	Detection and Classification of Pneumonia from Lung Ultrasound Images		2020 5th International Conference on Communication, Image and Signal Processing (CCISP)						294-298					13-15 Nov. 2020			Detection and Classification of Pneumonia from Lung Ultrasound Images	2020 5th International Conference on Communication, Image and Signal Processing (CCISP)																Lung
+Diseases
+Computed tomography
+Entropy
+Ultrasonic imaging
+Training
+COVID-19
+lung ultrasound image
+deep learning
+medical image classification
+diagnosis of pneumonia	The lungs are the primary organs of the respiratory system in humans. Meanwhile, lungs are also vulnerable and are easily damaged by inflammation or impact lesions during the course of our daily lives. Due to the epidemic of COVID-19 pneumonia, the confirmed and suspected cases often grow rapidly beyond the capabilities of medical institutions, rapid and accurate diagnosis for patients have become the first priority. Hence, ultrasound images have started to be adopted in lung diagnosis as they are more convenient, flexible, cheaper, and without ionizing radiation as compared with CT and CXR. This paper aims to use VGG, ResNet and EfficientNet networks to accurately classify Lung Ultrasound images of pneumonia according to different clinical stages based on self-made LUS datasets. The hyperparameters of the three networks were tuned and their performances were carefully compared. Our results indicate that the EfficientNet model outperformed the others, providing the best classification accuracies for 3 and 4 clinical stages of pneumonia are 94.62% and 91.18%, respectively. The best classification accuracy of 8 imagological features of pneumonia is 82.75%. This result is a proof of the promising potential of the LUS device to be used in pneumonia diagnosis and prove the viability of deep learning for LUS classification of pneumonia.													
+Y. Lee, X. Tan, C.-B. Chng and C.-K. Chui	2019	Simulation of Robot-Assisted Flexible Needle Insertion Using Deep Q-Network		2019 IEEE International Conference on Systems, Man and Cybernetics (SMC)		IEEE				342-346								Simulation of Robot-Assisted Flexible Needle Insertion Using Deep Q-Network		1728145694																													
+N. Ho, P.-M. Wong, R.-J. Soon, C.-B. Chng and C.-K. Chui	2019	Blockchain for Cyber-Physical System in Manufacturing		Proceedings of the Tenth International Symposium on Information and Communication Technology						385-392								Blockchain for Cyber-Physical System in Manufacturing																															
+C.-B. Chng, D. W.-T. Chia, Y. Cao, K. Yo, M. G. Fujie and C.-K. Chui	2019	A Cyber-Physical System Approach to Immobilization of Patient on Radiation Treatment		2019 IEEE 23rd International Conference on Intelligent Engineering Systems (INES)		IEEE				000153-000158								A Cyber-Physical System Approach to Immobilization of Patient on Radiation Treatment		1728112133																													
+J.-H. Yin, C.-B. Chng, P.-M. Wong, N. Ho, M. Chua and C.-K. Chui	2020	VR and AR in human performance research―An NUS experience		Virtual Reality & Intelligent Hardware			2		5	381-393								VR and AR in human performance research―An NUS experience		2096-5796																													
+X. Tan, Y. Lee, C.-B. Chng, K.-B. Lim and C.-K. Chui	2020	Robot-assisted flexible needle insertion using universal distributional deep reinforcement learning		International Journal of Computer Assisted Radiology and Surgery			15		2	341-349								Robot-assisted flexible needle insertion using universal distributional deep reinforcement learning		1861-6429																													
+C.-B. Chng, P.-M. Wong, N. Ho, X. Tan and C.-K. Chui	2019	Towards a Cyber-Physical Systems Based Operating Room of the Future		OR 2.0 Context-Aware Operating Theaters and Machine Learning in Clinical Neuroimaging		Springer, Cham				47-55								Towards a Cyber-Physical Systems Based Operating Room of the Future																															
+B. Duan, R. Wen, C.-B. Chng, W. Wang, P. Liu, J. Qin, J. L. Peneyra, S. K.-Y. Chang, P.-A. Heng and C.-K. Chui	2015	Image-guided robotic system for radiofrequency ablation of large liver tumor with single incision		2015 12th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI)		IEEE				284-289								Image-guided robotic system for radiofrequency ablation of large liver tumor with single incision		1467379719																													
+X. Tan, C.-B. Chng, Y. Su, K.-B. Lim and C.-K. Chui	2019	Robot-Assisted Training in Laparoscopy Using Deep Reinforcement Learning		IEEE Robotics and Automation Letters			4		2	485-492								Robot-Assisted Training in Laparoscopy Using Deep Reinforcement Learning		2377-3766																													
+M. Chua, C.-K. Chui and C. Teo	2015	Computer aided design and experiment of a novel patient-specific carbon nanocomposite voice prosthesis		Computer-Aided Design			59			109-118					2015/02/01/			Computer aided design and experiment of a novel patient-specific carbon nanocomposite voice prosthesis		0010-4485															CAD modeling
+Voice prosthesis
+Patient -specific design	Advanced computer technology can be used to design and customize a Trachea-Esophageal Puncture (TEP) voice prosthesis for speech restoration. Current voice prostheses have a standard range of sizes and shape that do not cater for all patients. This causes issues such as transprosthetic and periprosthetic leakages due to poor valve closure and misfit of the prosthesis in the patient’s fistula respectively. To address these limitations, we present a Computer Aided Design (CAD) methodology that utilizes patient’s imaging data, simulations and rapid prototyping to develop the world’s first patient-specific carbon nanocomposite voice prosthesis. The outer skin of the device is made from Carbon Nanotube–Polydimethylsiloxane (CNT–PDMS) and is geometrically customizable to fit the patient’s fistula for better seal. CAD and simulation of the prostheses based on patient-specific anatomical dimensions from imaging data are performed and evaluated. The finite element analysis results indicated that patient specificity in design produces lower and more even distribution of stress in the surrounding tissues compared to a modular cylindrical design. Flow simulations and in-vitro experiments to study the air flow resistance of the novel magnetic ball bearing valve and a range of inner diameters showed lower flow resistance compared to other types of prostheses. Finally, successful preliminary in-vivo experiments were carried out on live pig models to verify the feasibility of the patient-specific CAD methodology based on the subjects’ imaging data. The in-vivo results have demonstrated a close fit of the customized device in the fistula with no leakage observed through the prosthesis when water was flushed down the esophagus. The advantages of our patient-specific voice prosthesis methodology over current methods of estimation and relying on fixed prosthesis sizes are the elimination of surgical correction to seal oversized fistulas and unnecessary multiple insertions due to incorrect sizing and misfit. This paper highlights the usefulness of assimilating patient -specific CAD as part of the voice prosthesis fabrication process to produce better healthcare quality and eliminate leakages.			http://www.sciencedirect.com/science/article/pii/S0010448514002024										
+D. P. C. Lau, C. B. Chng and C. K. Chui	2014	Device and Method for In-Office Unsedated Tracheoesophageal Puncture (TEP)				Google Patents												Device and Method for In-Office Unsedated Tracheoesophageal Puncture (TEP)																															
+D. P. C. Lau, C. K. Chui, C. B. Chng, J. Q. Choo, T. Yang and S. H. Teoh	2012	Bio-Absorbable Micro-Clip And Applicator For Minimal Access Wound Closure				Google Patents												Bio-Absorbable Micro-Clip And Applicator For Minimal Access Wound Closure																															
+T. Yang, K. K. Toe, C. B. Chng, W. Huang, C. K. Chui, J. Liu and S. K. Chang	2014	Evaluation of Image Guided Robot Assisted Surgical Training for Patient Specific Laparoscopic Surgery		Bio-Imaging and Visualization for Patient-Customized Simulations		Springer				77-88								Evaluation of Image Guided Robot Assisted Surgical Training for Patient Specific Laparoscopic Surgery																															
+R. Wen, W.-L. Tay, B. P. Nguyen, C.-B. Chng and C.-K. Chui	2014	Hand gesture guided robot-assisted surgery based on a direct augmented reality interface		Computer methods and programs in biomedicine			116		2	68-80								Hand gesture guided robot-assisted surgery based on a direct augmented reality interface		0169-2607																													
+R. Wen, B. P. Nguyen, C.-B. Chng and C.-K. Chui	2013	In situ spatial AR surgical planning using projector-Kinect system		Proceedings of the Fourth Symposium on Information and Communication Technology		ACM				164-171								In situ spatial AR surgical planning using projector-Kinect system		1450324541																													
+R. Wen, C.-B. Chng, C.-K. Chui, K.-B. Lim, S.-H. Ong and S.-Y. Chang	2012	Robot-assisted RF ablation with interactive planning and mixed reality guidance		System Integration (SII), 2012 IEEE/SICE International Symposium on		IEEE				31-36								Robot-assisted RF ablation with interactive planning and mixed reality guidance		1467314978																													
+X. Tan, C.-B. Chng, B. Duan, Y. Ho, R. Wen, X. Chen, K.-B. Lim and C.-K. Chui	2017	Cognitive Engine for Robot-assisted Radio-Frequency Ablation System		Acta Polytechnica Hungarica			14		1	129-145								Cognitive Engine for Robot-assisted Radio-Frequency Ablation System		1785-8860																													
+X. Tan, C.-B. Chng, B. Duan, Y. Ho, R. Wen, X. Chen, K.-B. Lim and C.-K. Chui	2016	Design and implementation of a patient-specific cognitive engine for robotic needle insertion		Systems, Man, and Cybernetics (SMC), 2016 IEEE International Conference on		IEEE				000560-000565								Design and implementation of a patient-specific cognitive engine for robotic needle insertion		1509018972																													
+D. P. Lau, C. B. Chng and C. K. Chui	2014	New device for single‐stage in‐office secondary tracheoesophageal puncture: Animal studies		Head & neck			36		6	882-886								New device for single‐stage in‐office secondary tracheoesophageal puncture: Animal studies		1097-0347																													
+D. P. Lau, C. B. Chng, J. Q. Choo, N. Teo, R. M. Bunte and C. K. Chui	2012	Development of a microclip for laryngeal microsurgery: initial animal studies		The Laryngoscope			122		8	1809-1814								Development of a microclip for laryngeal microsurgery: initial animal studies		1531-4995																													
+Y. F. Eng, Y. Su, C. W. Lim, G. M. Ng, S. Kumar, W. Huang, K. K. Toe, T. Yang, C. K. Chui and C. B. Chng	2013	Real-time Simulation of Bleeding and Smoke Effects in Virtual Reality Environment		The 10th IASTED International Conference on Biomedical Engineering, Innsbruck, Austria														Real-time Simulation of Bleeding and Smoke Effects in Virtual Reality Environment																															
+C.-K. Chui, C.-B. Chng and D. P. Lau	2011	Parallel processing for object oriented robotic simulation of tracheal-oesophageal puncture		System Integration (SII), 2011 IEEE/SICE International Symposium on		IEEE				144-149								Parallel processing for object oriented robotic simulation of tracheal-oesophageal puncture		1457715244																													
+M. Chua, C.-K. Chui, C.-B. Chng and D. Lau	2013	Carbon nanotube-based artificial tracheal prosthesis: Carbon nanocomposite implants for patient-specific ENT care		IEEE Nanotechnology Magazine			7		4	27-31								Carbon nanotube-based artificial tracheal prosthesis: Carbon nanocomposite implants for patient-specific ENT care		1932-4510																													
+C.-B. Chng, Y. Ho and C.-K. Chui	2015	Automation of retinal surgery: A shared control robotic system for laser ablation		Information and Automation, 2015 IEEE International Conference on		IEEE				1957-1962								Automation of retinal surgery: A shared control robotic system for laser ablation		1467391042																													
+C.-B. Chng, B. Duan and C.-K. Chui	2016	Modeling and simulation of a Remote Center of Motion mechanism		Region 10 Conference (TENCON), 2016 IEEE		IEEE				1755-1758								Modeling and simulation of a Remote Center of Motion mechanism		1509025979																													
+C. Chng, D. Lau, J. Choo and C. Chui	2012	Investigation of Experimental Wound Closure Techniques in Voice Microsurgery		Otolaryngology		InTech												Investigation of Experimental Wound Closure Techniques in Voice Microsurgery																															
+R. Wen, C.-B. Chng and C.-K. Chui	2017	Augmented Reality Guidance with Multimodality Imaging Data and Depth-Perceived Interaction for Robot-Assisted Surgery		Robotics			6		2	13								Augmented Reality Guidance with Multimodality Imaging Data and Depth-Perceived Interaction for Robot-Assisted Surgery		2218-6581												doi:10.3390/robotics6020013				Image-guided surgical procedures are challenged by mono image modality, two-dimensional anatomical guidance and non-intuitive human-machine interaction. The introduction of Tablet-based augmented reality (AR) into surgical robots may assist surgeons with overcoming these problems. In this paper, we proposed and developed a robot-assisted surgical system with interactive surgical guidance using tablet-based AR with a Kinect sensor for three-dimensional (3D) localization of patient anatomical structures and intraoperative 3D surgical tool navigation. Depth data acquired from the Kinect sensor was visualized in cone-shaped layers for 3D AR-assisted navigation. Virtual visual cues generated by the tablet were overlaid on the images of the surgical field for spatial reference. We evaluated the proposed system and the experimental results showed that the tablet-based visual guidance system could assist surgeons in locating internal organs, with errors between 1.74 and 2.96 mm. We also demonstrated that the system was able to provide mobile augmented guidance and interaction for surgical tool navigation.			http://www.mdpi.com/2218-6581/6/2/13										
+L. Xiong, C. B. Chng, C. K. Chui, P. Yu and Y. Li	2017	Shared control of a medical robot with haptic guidance		International Journal of Computer Assisted Radiology and Surgery			12		1	137-147						journal article		Shared control of a medical robot with haptic guidance		1861-6429														Xiong2017		Tele-operation of robotic surgery reduces the radiation exposure during the interventional radiological operations. However, endoscope vision without force feedback on the surgical tool increases the difficulty for precise manipulation and the risk of tissue damage. The shared control of vision and force provides a novel approach of enhanced control with haptic guidance, which could lead to subtle dexterity and better maneuvrability during MIS surgery.			http://dx.doi.org/10.1007/s11548-016-1425-0										
+C. Chee-Kong, C. Chin-Boon, Y. Tao, W. Rong, H. Weimin, J. Liu, S. Yi and S. Chang	2011	Learning laparoscopic surgery by imitation using robot trainer		Robotics and Biomimetics (ROBIO), 2011 IEEE International Conference on						2981-2986					7-11 Dec. 2011			Learning laparoscopic surgery by imitation using robot trainer	Robotics and Biomimetics (ROBIO), 2011 IEEE International Conference on																computer vision
+learning by example
+medical robotics
+surgery
+computer vision system
+innovative learning
+laparoscopic robot trainer
+laparoscopic surgery
+learning by imitation
+robot learning
+virtual surgery
+Cameras
+Laparoscopes
+Robot kinematics
+Training
+Trajectory														
+L. Yang, C. B. Chng, C. K. Chui and D. P. C. Lau	2010	Model-based design analysis for programmable remote center of motion in minimally invasive surgery		2010 IEEE International Conference on Robotics, Automation and Mechatronics, RAM 2010, June 28, 2010 - June 30, 2010	Singapore, Singapore	IEEE Computer Society				84-89			2010 IEEE Conference on Robotics, Automation and Mechatronics, RAM 2010					Model-based design analysis for programmable remote center of motion in minimally invasive surgery																	Robotics
+Climate models
+Computer simulation
+Computer software
+Kinematics
+Machine design
+Manipulators
+Mechatronics
+Radar absorbing materials
+Robots
+Surgery
+Surgical equipment	Remote center of motion (RCM) is an important concept in the kinematics for robotic minimally invasive surgery (MIS). This work focuses on the kinematic modeling of mechanism design for programmable RCM in MIS. Programmable RCM uses multiple joints coordination to maintain the isocenter of surgical tool manipulation during MIS. In this work, the kinematic task requirement is studied using a multibody system analysis approach. A generalized model based on closed-loop kinematic chain was proposed. Next, an appropriate serial manipulator was conceptualized and kinematically modeled. Finally, simulation-based evaluations were performed on virtual models built with modeling software tools. The contribution of this work is the introduction of a model-based design analysis methodical approach. This will provide a framework for the implementation of a model-based control scheme in robotic minimally invasive surgery. In addition, this work could offer potential insights to better innovations for mechanical RCM system. 2010 IEEE.	Compilation and indexing terms, Copyright 2014 Elsevier Inc.
+20103413167506
+Closed-loop
+Device design
+Generalized models
+Isocenters
+Kinematic chain
+Kinematic modeling
+Mechanism design
+Medical robotics
+Methodical approach
+Minimally invasive surgery
+Model-based control schemes
+Model-based design
+Modeling softwares
+Multi Body Systems
+Multiple joints
+Remote center motion
+Remote center of motions
+Serial manipulators
+Simulation-based
+Simulation-based designs
+Surgical tools
+Virtual models
+Work Focus		http://dx.doi.org/10.1109/RAMECH.2010.5513209		Department of Mechanical Engineering, National University of Singapore, Singapore, SingaporeDepartment of Otolaryngology, Singapore General Hospital, Singapore, Singapore								
+C. B. Chng, D. P. Lau, J. Q. Choo and C. K. Chui	2012	A bioabsorbable microclip for laryngeal microsurgery: Design and evaluation		Acta Biomater			8		7	2835-44				2012/04/11	Jul			A bioabsorbable microclip for laryngeal microsurgery: Design and evaluation		1878-7568 (Electronic)
+1742-7061 (Linking)												22487927				Epithelial flaps created during laryngeal microsurgery require apposition to facilitate proper healing. Current technologies are restricted by minimal access of the surgical site, posing various limitations in application. In this paper, we propose a novel magnesium-based bioabsorbable microclip, discuss our design considerations and evaluate the microclip's feasibility as a miniature wound closure device. Ex vivo experiments demonstrate that the microclip fastens securely to the vocal fold, while in vivo studies show bioabsorbability and a lack of adverse side effects, suggesting that the microclips are viable as implantable devices.	Chng, C B
+Lau, D P
+Choo, J Q
+Chui, C K
+England
+Acta biomaterialia
+Acta Biomater. 2012 Jul;8(7):2835-44. Epub 2012 Apr 6.				Department of Mechanical Engineering, National University of Singapore, 9 Engineering Drive 1, Singapore 117576, Singapore.							NLM	eng
+C. Chin-Boon, C. Chee-Kong and D. P. C. Lau	2011	A novel handheld device for tracheo-esophageal puncture and prosthesis insertion		2011 IEEE/SICE International Symposium on System Integration (SII 2011), 20-22 Dec. 2011	Piscataway, NJ, USA	IEEE				150-5			2011 IEEE/SICE International Symposium on System Integration (SII 2011)					A novel handheld device for tracheo-esophageal puncture and prosthesis insertion																	biomedical equipment
+cancer
+mechatronics
+prosthetics
+surgery	Implantation of a voice prosthesis (VP) is a common surgical procedure for voice restoration in patients after total laryngectomy. Current procedures comprise surgical creation of a fistula by Tracheoesophageal Puncture (TEP) and insertion of a VP after fistula maturity. Leveraging on the advantages of Transnasal Esophagoscopy (TNE), a handheld mechatronic device is designed for subsequent insertion of the VP after TEP to allow for immediate voice restoration to the patient. Experimental results demonstrated the clinical viability of the proposed medical device and method for TEP and immediate prosthesis placement.	12542176
+handheld device
+tracheoesophageal puncture
+prosthesis insertion
+voice prosthesis implantation
+voice restoration
+laryngectomy
+fistula maturity
+transnasal esophagoscopy
+handheld mechatronic device
+VP insertion
+clinical viability
+TEP
+prosthesis placement		http://dx.doi.org/10.1109/SII.2011.6147436		Dept. of Mech. Eng., Nat. Univ. of Singapore, Singapore, Singapore								
+J. Q. Choo, D. P. Lau, C. K. Chui, T. Yang, C. B. Chng and S. H. Teoh	2010	Design of a mechanical larynx with agarose as a soft tissue substitute for vocal fold applications		J Biomech Eng			132		6	065001				2010/10/05	Jun			Design of a mechanical larynx with agarose as a soft tissue substitute for vocal fold applications		1528-8951 (Electronic)
+0148-0731 (Linking)												20887039			Artificial Organs
+Biomechanics
+Biomedical Engineering
+Elasticity
+Humans
+Hydrogels
+Larynx/anatomy & histology/ physiology
+Male
+Models, Biological
+Phantoms, Imaging
+Sepharose
+Tensile Strength
+Vibration
+Vocal Cords/anatomy & histology/ physiology
+Young Adult	Mechanical and computational models consisting of flow channels with convergent and oscillating constrictions have been applied to study the dynamics of human vocal fold vibration. To the best of our knowledge, no mechanical model has been studied using a material substitute with similar physical properties to the human vocal fold for surgical experimentation. In this study, we design and develop a mechanical larynx with agarose as a vocal fold substitute, and assess its suitability for surgical experimentation. Agarose is selected as a substitute for the vocal fold as it exhibits similar nonlinear hyperelastic characteristics to biological soft tissue. Through uniaxial compression and extension tests, we determined that agarose of 0.375% concentration most closely resembles the vocal fold mucosa and ligament of a 20-year old male for small tensile strain with an R(2) value of 0.9634 and root mean square error of 344.05+/-39.84 Pa. Incisions of 10 mm lengthwise and 3 mm in depth were created parallel to the medial edge on the superior surface of agar phantom. These were subjected to vibrations of 80, 130, and 180 Hz, at constant amplitude of 0.9 mm over a period of 10 min each in the mechanical larynx model. Lateral expansion of the incision was observed to be most significant for the lower frequency of 80 Hz. This model serves as a basis for future assessments of wound closure techniques during microsurgery to the vocal fold.	Choo, J Q
+Lau, D P C
+Chui, C K
+Yang, T
+Chng, C B
+Teoh, S H
+In Vitro
+Research Support, Non-U.S. Gov't
+United States
+Journal of biomechanical engineering
+J Biomech Eng. 2010 Jun;132(6):065001.				Department of Mechanical Engineering, National University of Singapore, Singapore 117576, Singapore.							NLM	eng
