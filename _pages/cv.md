@@ -57,18 +57,6 @@ Conferences
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-##All
-<br> No if
-  <ul>{% for post in site.publications reversed %}  
-        {% include archive-single-cv.html %}  
-  {% endfor %}</ul>
-  
-<br> with if
-  <ul>{% for post in site.publications reversed %}
-    {if author.categories = conferences}
-        {% include archive-single-cv.html %}
-    {% endif %}
-  {% endfor %}</ul>
   
 Teaching
 ======
