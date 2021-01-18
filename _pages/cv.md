@@ -49,14 +49,13 @@ Skills
 Publications
 ======
 Journals
-  <ul>{% for post in site.publications.journals reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-Conferences
-  <ul>{% for post in site.publications.conferences reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+Empty
   
+Conferences
+
+Empty  
+
 No if
   <ul>{% for post in site.publications reversed %}  
         {% include archive-single-cv.html %}  
